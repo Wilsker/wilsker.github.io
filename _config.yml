@@ -23,8 +23,8 @@
 #baseurl: "JTWW" # the subpath of your site, e.g. /blog
 domain: wilsker.github.io
 url: "https://wilsker.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+twitter_username: JTWilsker
+github_username:  Wilsker
 
 # Build settings
 remote_theme: pages-themes/architect@v0.2.0
@@ -56,7 +56,8 @@ defaults:
 
 
 title: JTWWW
-description: This is meant as a semi-professional site where I will also keep tidbits of interest.
+description: I'm a research fellow at the National Taiwan University in Taipei. Currently based at CERN in Geneva, I am working in high energy physics research and have a passion for deploying achine learning solutions for high energy physics problems.
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
