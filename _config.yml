@@ -27,7 +27,8 @@ twitter_username: JTWilsker
 github_username:  Wilsker
 
 # Build settings
-remote_theme: pages-themes/architect@v0.2.0
+#remote_theme: pages-themes/architect@v0.2.0
+theme: jekyll-theme-so-simple
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
@@ -53,6 +54,9 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+nav:
+  - label: 
 
 
 title: JTWWW
