@@ -3,4 +3,4 @@ short_name: josh
 name: Joshuha Thomas-Wilsker
 position: Chief Editor
 ---
-Josh is the chief editor of this webpage. His hard-hitting journalistic style and unwavering integrity has seen him fly through the ranks to become the youngest editor in the history of this blog.
+Josh is the chief editor of this webpage. His hard-hitting journalistic style and unwavering integrity has seen him fly through the ranks to become the only editor in the history of this blog.
