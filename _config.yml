@@ -27,9 +27,9 @@ url: "https://wilsker.github.io" # the base hostname & protocol for your site, e
 #github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
-  - jekyll-theme-cayman
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
