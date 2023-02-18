@@ -40,6 +40,8 @@ collections:
   authors:
     output: true
 
+skin: "/assets/css/skins/default.css"
+
 defaults:
   - scope:
       path: ""
