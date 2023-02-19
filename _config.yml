@@ -40,7 +40,6 @@ collections:
 
 skin: "/assets/css/skins/default.css"
 
-
 defaults:
   - scope:
       path: ""
@@ -56,8 +55,6 @@ defaults:
       path: ""
     values:
       layout: "default"
-
-nav: navigation
 
 title: JTWWW
 description: I'm a research fellow at the National Taiwan University in Taipei. Currently based at CERN in Geneva, I am working in high energy physics research and have a passion for deploying achine learning solutions for high energy physics problems.
