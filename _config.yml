@@ -27,10 +27,7 @@ twitter_username: JTWilsker
 github_username:  Wilsker
 
 # Build settings
-#remote_theme: pages-themes/architect@v0.2.0
-#remote_theme: pages-themes/midnight@v0.2.0
-#theme: jekyll-theme-so-simple
-theme: jekyll-theme-simplex
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
@@ -42,6 +39,7 @@ collections:
     output: true
 
 skin: "/assets/css/skins/default.css"
+
 
 defaults:
   - scope:
@@ -59,9 +57,7 @@ defaults:
     values:
       layout: "default"
 
-nav:
-  - label: 
-
+nav: navigation
 
 title: JTWWW
 description: I'm a research fellow at the National Taiwan University in Taipei. Currently based at CERN in Geneva, I am working in high energy physics research and have a passion for deploying achine learning solutions for high energy physics problems.
