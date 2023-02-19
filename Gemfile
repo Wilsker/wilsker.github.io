@@ -24,7 +24,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
   gem "jekyll-include-cache"
-  gem "jekyll-theme-architect"
+  gem "jekyll-theme-simplex"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
