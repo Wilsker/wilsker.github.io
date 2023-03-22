@@ -1,9 +1,9 @@
 main:
   - label: Home
-    url: /index.html
+    url: index.html
   - label: About
-    url: /about.md
+    url: about.md
   - label: Blog
-    url: /blog.html
+    url: blog.html
   - label: Staff
-    url: /staff.html
+    url: staff.html
