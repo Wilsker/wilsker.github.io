@@ -1,4 +1,5 @@
 ---
+short_name: ttX
 name: Rare Top quark processes
 ---
 ## Rare Top quark processes
