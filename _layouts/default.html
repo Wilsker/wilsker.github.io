@@ -30,7 +30,7 @@
               <li class="title">DOWNLOADS</li>
             {% endif %}
             {% for item in site.data.navigation.main %}
-              <li class="fork"><a href="{{ item.url }}">{{item.label}}</a></li>
+              <li class="fork"><a href="{{ site.url }}{{ item.url }}">{{item.label}}</a></li>
             {% endfor %}
             <!--<li class="fork"><a href="./">Home</a></li>
             <li class="fork"><a href="staff.html">Staff</a></li>
