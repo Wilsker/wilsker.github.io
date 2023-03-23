@@ -2,8 +2,8 @@ main:
 
 - label: Home
   url: index.html
-- label: About
-  url: about.md
+- label: Research
+  url: research.html
 - label: Blog
   url: blog.html
 - label: Staff
