@@ -37,6 +37,8 @@ plugins:
 collections:
   authors:
     output: true
+  projects:
+    output: true
 
 skin: "/assets/css/skins/default.css"
 
