@@ -2,6 +2,8 @@ main:
 
 - label: Home
   url: index.html
+- label: About
+  url: about.html
 - label: Research
   url: research.html
 - label: Blog
