@@ -6,7 +6,7 @@ title: Research
     {% for project in site.projects %}
         <li>
             <h2><a href="{{ project.url }}">{{ project.name }}</a></h2>
-            <p>{{ author.content | markdownify }}</p>
+            <p>{{ project.content | markdownify }}</p>
         </li>
     {% endfor %}
 </ul>
