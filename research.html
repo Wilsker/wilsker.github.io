@@ -4,9 +4,9 @@ title: research
 <h1>Research</h1>
 <ul>
     {% for project in site.projects %}
-    <li>
-        <h2><a href="{{ project.url }}">{{ project.name }}</a></h2>
-        <p>{{ markdownify }}</p>
-    </li>
+        <li>
+            <h2><a href="{{ project.url }}">{{ project.name }}</a></h2>
+            <p>{{ markdownify }}</p>
+        </li>
     {% endfor %}
 </ul>
